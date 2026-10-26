@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|c:\\users\\desktop\\tpdv_mo3d_tp1_schmidt\\assets\\scripts\\createarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|c:\\users\\desktop\\tpdv_mo3d_tp1_schmidt\\assets\\scripts\\scriptcamera\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptcamera\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\assets\\scripts\\scriptcamera\\cameramarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptcamera\\cameramarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\assets\\scripts\\scriptcamera\\camerconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptcamera\\camerconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateArray.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\CreateArray.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateArray.cs",
-              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\CreateArray.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CreateArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CameraMarker.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T20:19:02.326Z",
+              "WhenOpened": "2026-10-26T03:52:24.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:38:09.047Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CamerConfigurator.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:30:37.935Z"
             }
           ]
         }
