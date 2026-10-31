@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|c:\\users\\desktop\\tpdv_mo3d_tp1_schmidt\\assets\\scripts\\scriptcamera\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptcamera\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|c:\\users\\desktop\\tpdv_mo3d_tp1_schmidt\\assets\\scripts\\rodolfoscript\\rodolfovictoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rodolfoscript\\rodolfovictoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\assets\\scripts\\scriptcamera\\cameramarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptcamera\\cameramarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|c:\\users\\desktop\\tpdv_mo3d_tp1_schmidt\\assets\\scripts\\rodolfoscript\\rodolfocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rodolfoscript\\rodolfocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\assets\\scripts\\scriptcamera\\camerconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptcamera\\camerconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\assets\\scripts\\rodolfoscript\\rodolfobehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rodolfoscript\\rodolfobehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\assets\\scripts\\rodolfoscript\\rodolfoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A346643-60C7-C488-DB38-6F876E20FE25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rodolfoscript\\rodolfoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CameraMarker.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
-              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptCamera\\CameraMarker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RodolfoVictoria.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoVictoria.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RodolfoScript\\RodolfoVictoria.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoVictoria.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RodolfoScript\\RodolfoVictoria.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:52:24.956Z"
+              "WhenOpened": "2026-10-31T00:03:47.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CameraSwitch.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
-              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptCamera\\CameraSwitch.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RodolfoCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RodolfoScript\\RodolfoCamera.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RodolfoScript\\RodolfoCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:38:09.047Z",
+              "WhenOpened": "2026-10-30T22:32:55.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CamerConfigurator.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
-              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptCamera\\CamerConfigurator.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowAYAAAAdAAAAAAAAAA==",
+              "Title": "RodolfoBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RodolfoScript\\RodolfoBehavior.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RodolfoScript\\RodolfoBehavior.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:30:37.935Z"
+              "WhenOpened": "2026-10-30T19:50:25.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RodolfoScript.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RodolfoScript\\RodolfoScript.cs",
+              "ToolTip": "C:\\Users\\Desktop\\TPDV_MO3D_TP1_Schmidt\\Assets\\Scripts\\RodolfoScript\\RodolfoScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RodolfoScript\\RodolfoScript.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:39:07.088Z"
             }
           ]
         }
